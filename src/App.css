@@ -1,0 +1,16 @@
+body {
+  background-color: #d6f4e8;
+}
+
+.App {
+  margin: 5rem auto;
+  text-align: center;
+  font-size: 40px;
+}
+
+.App-logo {
+  max-width: 225px;
+  margin-bottom: 30px;
+  display: inline-block;
+  vertical-align: middle;
+}
